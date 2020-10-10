@@ -34,7 +34,7 @@ client.on('message', function(message) {
     if(message.content.includes(kobuMention)) {
         // const code = message.content.split(" ")[1];
         if(words(message, ["link", "zoom"])) kobuController.zoom(message);
-        if(words(message, ["calendario", "clases"])) kobuController.calendar(message);
+        if(words(message, ["calendar", "calendario", "clases"])) kobuController.calendar(message);
         if(words(message, ["ayuda", "help"])) kobuController.help(message);
     };
 

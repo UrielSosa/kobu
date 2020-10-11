@@ -5,7 +5,7 @@ let client = new Discord.Client();
 
 let helpers = require('./controllers/helpers');
 const kobuController = require('./controllers/kobuController');
-let kobuMention = '750858546530222111>';
+let kobuMention = '760683169602076693>';
 
 client.on('ready', () => {
     console.log("Bot is ready!");    

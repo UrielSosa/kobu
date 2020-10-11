@@ -29,10 +29,10 @@ client.on('message', function(message) {
     if(!message.content.includes(kobuMention)) return;
 
     // message.member.hasPermission('profes')
-
+    console.log(message.content.includes(kobuMention));
     // Public
     if(message.content.includes(kobuMention)) {
-        
+
         if(words(message, ["link", "zoom"])) kobuController.zoom(message);
         if(words(message, ["calendar", "calendario", "clases"])) kobuController.calendar(message);
         if(words(message, ["ayuda", "help"])) kobuController.help(message);

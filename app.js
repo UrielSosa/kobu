@@ -12,7 +12,7 @@ client.on('ready', () => {
 })
 
 client.on('message', function(message) {
-
+    
     let words = (message, array) => {
         let check = 0;
         for(let element of array) {
@@ -28,8 +28,6 @@ client.on('message', function(message) {
     if(message.author.bot) return;
     if(!message.content.includes(kobuMention)) return;
 
-    // message.member.hasPermission('profes')
-    console.log(message.content.includes(kobuMention));
     // Public
     if(message.content.includes(kobuMention)) {
 

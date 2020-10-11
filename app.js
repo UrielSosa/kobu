@@ -5,7 +5,7 @@ let client = new Discord.Client();
 
 let helpers = require('./controllers/helpers');
 const kobuController = require('./controllers/kobuController');
-let kobuMention = '760683169602076693>';
+let kobuMention = process.env.BOT_MENTION;
 
 client.on('ready', () => {
     console.log("Bot is ready!");    
@@ -32,10 +32,11 @@ client.on('message', function(message) {
 
     // Public
     if(message.content.includes(kobuMention)) {
-        // const code = message.content.split(" ")[1];
+        
         if(words(message, ["link", "zoom"])) kobuController.zoom(message);
         if(words(message, ["calendar", "calendario", "clases"])) kobuController.calendar(message);
         if(words(message, ["ayuda", "help"])) kobuController.help(message);
+        
     };
 
 })

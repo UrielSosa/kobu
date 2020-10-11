@@ -12,7 +12,7 @@ module.exports = {
     },
     calendar: async function (message) {
         message.react('🐱');
-        let data = fs.readFileSync(path.join(__dirname, '../data/calendar.csv'));
+        let data = fs.readFileSync(path.join(__dirname, '../data/22ared.csv'));
         let calendar = await neatCSV(data, helpers.csvHeaders());
         calendar.shift()
         calendar = calendar.reverse();

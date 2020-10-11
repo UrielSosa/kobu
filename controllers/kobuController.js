@@ -29,7 +29,6 @@ module.exports = {
         let embed = new Discord.MessageEmbed()
                         .setColor('#f7b9ae')
                         .setTitle('Esta es una lista de las próximas clases')
-                        .setDescription("Ad lorem ipsum")
                         .addFields(calendarFields.slice(0, 5))
         message.reply(this.talk())
         message.channel.send(embed)

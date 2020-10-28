@@ -12,9 +12,9 @@ module.exports = {
     },
     calendar: async function (message) {
         message.react('🐱');
-        
-        let server = checkServer(message, data);
 
+        let server = checkServer(message, data);
+        
         calendarRead = readFile(`../data/${server.calendar}.csv`);
 
         let calendar = await neatCSV(calendarRead, csvHeaders());
@@ -43,7 +43,7 @@ module.exports = {
     zoom: async function (message) {
         message.react('🐱');
         message.reply(this.talk())
-        
+
         let server = checkServer(message, data);
 
         let embed = new Discord.MessageEmbed()
@@ -56,7 +56,7 @@ module.exports = {
     notion: async function (message) {
         message.react('🐱');
         message.reply(this.talk())
-
+        
         let server = checkServer(message, data);
         
         let embed = new Discord.MessageEmbed()

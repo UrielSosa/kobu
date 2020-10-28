@@ -20,7 +20,6 @@ client.on('message', function(message) {
     
     // Public
     if(message.content.includes(kobuMention)) {
-          
         if (words(message, ["link", "zoom"])) kobuController.zoom(message);
         if (words(message, ["notion", "pepe"])) kobuController.notion(message);
         if (words(message, ["calendar", "calendario", "clases"])) kobuController.calendar(message);

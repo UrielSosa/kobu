@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "757670485751496836",
         "name":"CN22",
         "zoom": {
             "link": "https://digitalhouse.zoom.us/my/aulavirtual13",
@@ -14,7 +14,7 @@
         "calendar": "22ared"
     },
     {
-        "id": 2,
+        "id": "752067553525760061",
         "name": "Digital House - FSN CN23",
         "zoom": {
             "link": "https://digitalhouse.zoom.us/my/aulavirtual29",
@@ -28,7 +28,7 @@
         "calendar": "23ared"
     },
     {
-        "id": 769330289385144330,
+        "id": "769330289385144330",
         "name": "El servidor de Uri",
         "zoom": {
             "link": "https://digitalhouse.zoom.us/my/aulavirtual29",

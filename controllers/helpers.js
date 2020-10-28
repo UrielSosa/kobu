@@ -16,7 +16,7 @@ module.exports = {
     },
     checkServer: (message, servers) => {
         let [selected] = servers.filter(server => {
-            return message.channel.guild.name === server.name;
+            return message.channel.guild.id === server.id;
         })
         return selected;
     },

@@ -1,6 +1,6 @@
 {
   "name": "kobu-bot",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "This is a bot dedicated to DigitalHouse students",
   "main": "app.js",
   "scripts": {

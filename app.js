@@ -3,7 +3,7 @@ require('dotenv').config();
 let Discord = require('discord.js');
 let client = new Discord.Client();
 
-let helpers = require('./controllers/helpers');
+let { words } = require('./controllers/helpers');
 const kobuController = require('./controllers/kobuController');
 let kobuMention = process.env.BOT_MENTION;
 
@@ -12,28 +12,19 @@ client.on('ready', () => {
 })
 
 client.on('message', function(message) {
-    
-    let words = (message, array) => {
-        let check = 0;
-        for(let element of array) {
-            if(message.content.toLowerCase().includes(element)) {
-                check++
-            }
-        }
-    
-        return check > 0
-    }
 
+    
     // Blocklist
     if(message.author.bot) return;
     if(!message.content.includes(kobuMention)) return;
-
+    
     // Public
     if(message.content.includes(kobuMention)) {
-
-        if(words(message, ["link", "zoom"])) kobuController.zoom(message);
-        if(words(message, ["calendar", "calendario", "clases"])) kobuController.calendar(message);
-        if(words(message, ["ayuda", "help"])) kobuController.help(message);
+          
+        if (words(message, ["link", "zoom"])) kobuController.zoom(message);
+        if (words(message, ["notion", "pepe"])) kobuController.notion(message);
+        if (words(message, ["calendar", "calendario", "clases"])) kobuController.calendar(message);
+        if (words(message, ["ayuda", "help"])) kobuController.help(message);
         
     };
 

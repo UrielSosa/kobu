@@ -1,11 +1,10 @@
 {
-  "name": "kobu-bot-22ared",
-  "version": "1.0.0",
-  "description": "Un bot",
+  "name": "kobu-bot",
+  "version": "1.0",
+  "description": "This is a bot dedicated to DigitalHouse students",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "Uriel Sosa y Hernán Baravalle",
   "license": "ISC",

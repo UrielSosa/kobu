@@ -66,10 +66,9 @@ module.exports = {
         message.channel.send(embed)
         return;
     },
-    reset: function (channel, client) {
-        channel.send("Reseteando...")
-            .then(msg => client.destroy())
-            .then(() => client.login(process.env.DISCORD_TOKEN));
+    off: function (channel, client) {
+        channel.send("Apagando...")
+            .then(msg => client.destroy());
     },
     help: function(message) {
         message.react('🐱');

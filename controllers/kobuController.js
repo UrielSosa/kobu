@@ -68,7 +68,8 @@ module.exports = {
     },
     off: function (channel, client) {
         channel.send("Apagando...")
-            .then(msg => client.destroy());
+            .then(msg => client.destroy())
+            .then(()=> process.exit(1));
     },
     help: function(message) {
         message.react('🐱');

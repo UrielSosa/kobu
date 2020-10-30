@@ -22,7 +22,7 @@ client.on('message', function(message) {
     if(message.content.includes(kobuMention)) {
         const args = message.content.slice(kobuMention.length).trim();
         
-        if (args.toUpperCase() == '!!APAGATE') kobuController.off(message.channel, client);
+        if (args.toUpperCase() == '!shotdown') kobuController.off(message.channel, client);
         if (words(message, ["link", "zoom"])) kobuController.zoom(message);
         if (words(message, ["notion", "pepe"])) kobuController.notion(message);
         if (words(message, ["calendar", "calendario", "clases"])) kobuController.calendar(message);

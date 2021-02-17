@@ -4,7 +4,7 @@
         "name":"CN22",
         "zoom": {
             "link": "https://digitalhouse.zoom.us/my/aulavirtual13",
-            "pass": "13.virtual"
+            "pass": "avirtual13"
         },
         "notion": {
             "general": "https://www.notion.so/22ARED-Full-Stack-a-distancia-6b8aa72fd2b7484c8bb5961e2669100e",
@@ -18,7 +18,7 @@
         "name": "Digital House - FSN CN23",
         "zoom": {
             "link": "https://digitalhouse.zoom.us/my/aulavirtual29",
-            "pass": "29.virtual"
+            "pass": "avirtual29"
         },
         "notion": {
             "general": "https://www.notion.so/23ARED-Full-Stack-a-distancia-eac4e59a3e504287be222e5003ae8833",
@@ -32,7 +32,7 @@
         "name": "El servidor de Uri",
         "zoom": {
             "link": "https://digitalhouse.zoom.us/my/aulavirtual29",
-            "pass": "29.virtual"
+            "pass": "avirtual29"
         },
         "notion": {
             "general": "https://www.notion.so/23ARED-Full-Stack-a-distancia-eac4e59a3e504287be222e5003ae8833",

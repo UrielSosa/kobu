@@ -12,7 +12,7 @@ client.on('ready', () => {
 })
 
 client.on('message', function(message) {
-
+    //console.log(message);
     
     // Blocklist
     if(message.author.bot) return;

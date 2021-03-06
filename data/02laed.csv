@@ -1,0 +1,53 @@
+﻿Curso,Comisión,"Estado Comisión",Módulo,Clase,Sede,Fecha,Profesor,Ayudante,"Requiere Especialista","Estado de Asignación del Expositor","Estado Clase","Total Presentes","Expositor 1","Rol 1","Expositor 2","Rol 2","Expositor 3","Rol 3"
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Introducción,"Bienvenida e Introducción",LATAM,02/03/2021,,"Uriel Sosa, Sebastián Rellihan",No,Asignado,Dictada,46,"Sebastian Rellihan","Staff | Confirmado","Sebastián Rellihan","Staff | Confirmado","Javier Herrera","Staff | Confirmado"
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Introducción,"Uso de herramientas",LATAM,05/03/2021,,"Uriel Sosa, Sebastián Rellihan",No,Asignado,Dictada,46,"Uriel Sosa","Staff | Confirmado","Sebastián Rellihan","Staff | Confirmado","Sebastian Rellihan","Staff | Confirmado"
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"Introducción a Node y JS","Introducción a NodeJS",LATAM,09/03/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"Introducción a Node y JS","Repaso de funciones, condicionales y Arrays",LATAM,12/03/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"Introducción a Node y JS","JSON, mas condicionales y ciclos",LATAM,16/03/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"Introducción a Node y JS","Callback, mas ciclos y nuevos métodos",LATAM,19/03/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"Metodologías de desarrollo",GIT,LATAM,23/03/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"Metodologías de desarrollo",SCRUM,LATAM,26/03/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"Metodologías de desarrollo","Intro a proyecto integrador",LATAM,30/03/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"HTML + CSS","Introducción a Servidores",LATAM,06/04/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"HTML + CSS","Creando estructura de un sitio web",LATAM,09/04/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"HTML + CSS","Agregando estilos",LATAM,13/04/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"HTML + CSS","Trabajando con formularios",LATAM,16/04/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"HTML + CSS","Posicionamiento avanzado con Flexbox",LATAM,20/04/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"HTML + CSS","Diseño adaptativo",LATAM,23/04/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"HTML + CSS","Organizando y animando elementos",LATAM,27/04/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"HTML + CSS","HTML + CSS: Repaso / Proyecto Integrador / Hackaton",LATAM,30/04/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"HTML + CSS","HTML + CSS: Repaso / Proyecto Integrador / Hackaton II",LATAM,04/05/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Express,"Patrones de diseño MVC",LATAM,07/05/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Express,"Vistas dinámicas con EJS",LATAM,11/05/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Express,"Express: Repaso / Proyecto Integrador / Hackaton",LATAM,14/05/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Express,"CRUD - Episodio I",LATAM,18/05/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Express,"CRUD - Episodio II",LATAM,21/05/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Express,"Express: Repaso / Proyecto Integrador / Hackaton II",LATAM,25/05/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Express,Middlewares,LATAM,28/05/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Express,"Armado de Login : Session y Cookies",LATAM,01/06/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Express,"Express: Repaso / Proyecto Integrador / Hackaton III",LATAM,04/06/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"Bases de datos","Diseño y definición de tablas",LATAM,08/06/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"Bases de datos","Manipulación y consulta de datos",LATAM,11/06/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"Bases de datos","Uniones y funciones de agregación",LATAM,15/06/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"Bases de datos","Introducción, modelos y consultas básicas",LATAM,18/06/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"Bases de datos","Manipulación de datos",LATAM,22/06/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"Bases de datos","Relaciones y CRUD completo",LATAM,25/06/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"Bases de datos","Bases de datos: Repaso / Proyecto Integrador / Hackaton",LATAM,29/06/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,APIs,"Creando nuestras propias APIs",LATAM,02/07/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,APIs,"Consumo de APIs propias y de terceros",LATAM,06/07/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"JS Front","Manipulando elementos con JavaScript",LATAM,09/07/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"JS Front","Agregando interacción con Eventos",LATAM,13/07/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"JS Front","Interactuando con Formularios",LATAM,16/07/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"JS Front","Pedidos asincrónicos con JavaScript",LATAM,20/07/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"JS Front","JS Front: Repaso / Proyecto Integrador / Hackaton",LATAM,23/07/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,"JS Front","JS Front: Repaso / Proyecto Integrador / Hackaton II",LATAM,27/07/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,React,"Creando una aplicación con React",LATAM,30/07/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,React,"Trabajando con componentes",LATAM,03/08/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,React,"El ciclo de vida de los componentes",LATAM,06/08/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,React,"Enlazando los componente de la aplicación",LATAM,10/08/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,React,hooks,LATAM,13/08/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Cierre,"Aplicación práctica",LATAM,17/08/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Cierre,"Aplicación práctica II",LATAM,20/08/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Cierre,"Aplicación práctica III",LATAM,24/08/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Cierre,"Aplicación práctica IV",LATAM,27/08/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0
+"Full Stack Node a Distancia - v112020",0321CDFSNCN02LAED,Abierta,Cierre,Cierre,LATAM,31/08/2021,,"Uriel Sosa, Sebastián Rellihan",No,"No Asignado",Pendiente,0

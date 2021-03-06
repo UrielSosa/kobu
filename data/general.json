@@ -28,18 +28,17 @@
         "calendar": "23ared"
     },
     {
-        "id": "769330289385144330",
-        "name": "El servidor de Uri",
+        "id": "816731109822824468",
+        "name": "02LAED",
         "zoom": {
-            "link": "https://digitalhouse.zoom.us/my/aulavirtual29",
-            "pass": "avirtual29"
+            "link": "https://digitalhouse.zoom.us/my/aulavirtual10",
+            "pass": "avirtual10"
         },
         "notion": {
-            "general": "https://www.notion.so/23ARED-Full-Stack-a-distancia-eac4e59a3e504287be222e5003ae8833",
-            "grupos": "https://www.notion.so/Listado-de-grupos-06652f65a3704341b7c48582cabfa2fb",
-            "sprints": "https://www.notion.so/Listado-de-sprints-b879d63a90c848d9a33d0c99e82619d7"
+            "general": "",
+            "grupos": "",
+            "sprints": ""
         },
-        "calendar": "22ared"
+        "calendar": "02laed"
     }
-
 ]

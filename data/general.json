@@ -40,5 +40,19 @@
             "sprints": ""
         },
         "calendar": "02laed"
+    },
+    {
+        "id": "820122276467834911",
+        "name": "carrera",
+        "zoom": {
+            "link": "https://digitalhouse.zoom.us/my/aulavirtual17",
+            "pass": "avirtual17"
+        },
+        "notion": {
+            "general": "",
+            "grupos": "",
+            "sprints": ""
+        },
+        "calendar": "carrera"
     }
 ]

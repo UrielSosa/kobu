@@ -18,19 +18,18 @@ module.exports = {
         calendarRead = readFile(`../data/${server.calendar}.csv`);
 
         let calendar = await neatCSV(calendarRead, csvHeaders());
+        
         calendar.shift()
-        if (server.calendar !== '02laed') {
+
+        if (server.calendar !== '02laed' && server.calendar !== 'carrera') {
             calendar = calendar.reverse();
         }
 
-        console.log(calendar);
         let actualCalendar = calendar.filter(function(element) {
             const fechaHoy = moment().format("YYYY-MM-DD");
             const fechaClase = moment(element.fecha, "DD-MM-YYYY").format("YYYY-MM-DD");
             return moment(fechaHoy).isSameOrBefore(fechaClase)
         })
-        console.log('------------------------------------------');
-        console.log(actualCalendar);
 
         let calendarFields = actualCalendar.map(element => {
             let fecha = moment(element.fecha, "DD-MM-YYYY");

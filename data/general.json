@@ -4,7 +4,7 @@
         "name":"CN22",
         "zoom": {
             "link": "https://digitalhouse.zoom.us/my/aulavirtual13",
-            "pass": "AulaVirtual.DH13"
+            "pass": "aula.vi.13"
         },
         "notion": {
             "general": "https://www.notion.so/22ARED-Full-Stack-a-distancia-6b8aa72fd2b7484c8bb5961e2669100e",
@@ -18,7 +18,7 @@
         "name": "Digital House - FSN CN23",
         "zoom": {
             "link": "https://digitalhouse.zoom.us/my/aulavirtual29",
-            "pass": "AulaVirtual.DH29"
+            "pass": "aula.vi.29"
         },
         "notion": {
             "general": "https://www.notion.so/23ARED-Full-Stack-a-distancia-eac4e59a3e504287be222e5003ae8833",
@@ -32,7 +32,7 @@
         "name": "02LAED",
         "zoom": {
             "link": "https://digitalhouse.zoom.us/my/aulavirtual10",
-            "pass": "AulaVirtual.DH10"
+            "pass": "aula.vi.10"
         },
         "notion": {
             "general": "",
@@ -46,7 +46,7 @@
         "name": "carrera",
         "zoom": {
             "link": "https://digitalhouse.zoom.us/my/aulavirtual17",
-            "pass": "AulaVirtual.DH17"
+            "pass": "aula.vi.17"
         },
         "notion": {
             "general": "",
